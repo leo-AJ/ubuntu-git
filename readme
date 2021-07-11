@@ -1,1 +1,8 @@
 today I am studying git
+
+first learning
+	git add
+	git commit
+	git status
+	git log
+	git config user.name/email
