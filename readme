@@ -6,3 +6,13 @@ first learning
 	git status
 	git log
 	git config user.name/email
+
+second 
+	git branch
+	git branch new1
+	git branch -d new1
+	git checkout new1
+
+	git tag
+	git tag v0.1
+	git tag -d v0.1
