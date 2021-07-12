@@ -1,0 +1,15 @@
+#ignore the file which type is .a and .o
+*.[ao]
+
+#not ignore clib.a
+! clib.a
+
+#ignore temp file
+*~
+
+#ignore root dir some file like text
+/text
+
+#ignore a dir all the file
+libs/
+
