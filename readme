@@ -19,3 +19,7 @@ second
 
 than 
 	git data mod
+
+next day
+	git commit --amend
+	git add .
