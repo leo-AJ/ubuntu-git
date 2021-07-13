@@ -23,3 +23,9 @@ than
 next day
 	git commit --amend
 	git add .
+
+thirth day
+	git diff
+	git diff --cached HEAD
+	git giff HEAD
+	git diff HEAD HEAD^
