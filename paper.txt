@@ -1,1 +1,4 @@
 1.propose a idear
+2.find information
+3.do experiment
+4.write paper
