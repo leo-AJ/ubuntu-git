@@ -3,6 +3,6 @@ add 1
 add 2
 add 3 on master
 add 4 on another
-
 add merge tool on master
+add merge tool on another
 
