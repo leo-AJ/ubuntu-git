@@ -29,3 +29,8 @@ thirth day
 	git diff --cached HEAD
 	git giff HEAD
 	git diff HEAD HEAD^
+
+
+long long ago:
+	git rebase
+
