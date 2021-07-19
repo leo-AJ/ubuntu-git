@@ -38,3 +38,5 @@ long long ago:
 	git remote
 	git clone
 	ssh
+	git fetch
+	git pull
